@@ -89,6 +89,9 @@
 		<Unit filename="/home/abodi/CLionProjects/untitled/Demo.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/home/abodi/CLionProjects/untitled/Test.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/home/abodi/CLionProjects/untitled/solver.hpp">
 			<Option target="untitled"/>
 		</Unit>

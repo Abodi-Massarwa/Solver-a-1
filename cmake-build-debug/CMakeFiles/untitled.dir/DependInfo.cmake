@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/abodi/CLionProjects/untitled/Demo.cpp" "/home/abodi/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Demo.cpp.o"
+  "/home/abodi/CLionProjects/untitled/Test.cpp" "/home/abodi/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 
